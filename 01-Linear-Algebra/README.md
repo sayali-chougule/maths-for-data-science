@@ -1,6 +1,6 @@
 # Linear Algebra for Data Science
 
-This section contains handwritten notes covering:
+This section contains:
 - Vectors and vector spaces
 - Matrices and operations
 - Eigenvalues & eigenvectors
